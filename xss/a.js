@@ -1,1 +1,1 @@
-n
+console.log('xss hijack');
